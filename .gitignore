@@ -1,0 +1,4 @@
+/data
+.Rdata
+src/*.o
+src/*.so
